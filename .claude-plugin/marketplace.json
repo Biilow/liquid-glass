@@ -1,0 +1,5 @@
+{
+  "name": "oatsy-mods",
+  "owner": { "name": "Oatsy" },
+  "plugins": [{ "name": "liquid-glass", "source": "./" }]
+}
