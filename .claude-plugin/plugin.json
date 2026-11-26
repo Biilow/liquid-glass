@@ -1,6 +1,6 @@
 {
   "name": "liquid-glass",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "license": "MIT",
   "description": "Liquid Glass panels over a moving backdrop. Type /glass to pick the backdrop, tint, strength, blur and motion."
 }
